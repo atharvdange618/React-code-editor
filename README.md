@@ -26,9 +26,8 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
-<p align="center">
-
-<img src="ui.png" alt="Project UI" width="400px">
+<p>
+<img src="ui.png" alt="Project UI">
 </p>
  
 <h2 id="started">🚀 Getting started</h2>
