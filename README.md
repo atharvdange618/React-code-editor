@@ -23,6 +23,13 @@
 - Chakra UI
 - Monaco React Editor
 - Piston API
+
+<h2 id="layout">🎨 Layout</h2>
+
+<p align="center">
+
+<img src="ui.png" alt="Project UI" width="400px">
+</p>
  
 <h2 id="started">🚀 Getting started</h2>
 
